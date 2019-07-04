@@ -10,6 +10,6 @@ namespace C1_2
     {
         static void Main(string[] args)
         {
-        }
+        }sdadas
     }
 }
