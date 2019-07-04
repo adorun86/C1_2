@@ -38,7 +38,7 @@ namespace C1_2_4
                     Console.WriteLine("Осталось " + tryCount +" попыток");
                 }
             } while (tryCount > 0);
-            
+            //dsa
         }
     }
 }
