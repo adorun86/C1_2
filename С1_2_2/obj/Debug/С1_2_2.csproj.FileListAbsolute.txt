@@ -1,0 +1,6 @@
+C:\Users\слава\source\repos\C1_2\С1_2_2\bin\Debug\С1_2_2.exe.config
+C:\Users\слава\source\repos\C1_2\С1_2_2\bin\Debug\С1_2_2.exe
+C:\Users\слава\source\repos\C1_2\С1_2_2\bin\Debug\С1_2_2.pdb
+C:\Users\слава\source\repos\C1_2\С1_2_2\obj\Debug\С1_2_2.csproj.CoreCompileInputs.cache
+C:\Users\слава\source\repos\C1_2\С1_2_2\obj\Debug\С1_2_2.exe
+C:\Users\слава\source\repos\C1_2\С1_2_2\obj\Debug\С1_2_2.pdb
