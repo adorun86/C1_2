@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace C1_2_1
 {
+    // Машканцев 
+    //1. Написать метод, возвращающий минимальное из трех чисел.
     class Program
     {
         static void Main(string[] args)
@@ -21,7 +23,7 @@ namespace C1_2_1
 
             int min;
 
-            if (a < b && a<c)
+            if (a < b && a < c)
             {
                 min = a;
             }
