@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace С1_2_3
 {
+    //Mashkantsev
     //3. С клавиатуры вводятся числа, пока не будет введен 0. Подсчитать сумму всех нечетных положительных чисел.
     class Program
     {
